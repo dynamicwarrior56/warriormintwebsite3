@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.708e31d9.chunk.css",
+    "main.js": "/static/js/main.ef2aba25.chunk.js",
+    "main.js.map": "/static/js/main.ef2aba25.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.be43b679.js",
+    "runtime-main.js.map": "/static/js/runtime-main.be43b679.js.map",
+    "static/css/2.c3e1ecb8.chunk.css": "/static/css/2.c3e1ecb8.chunk.css",
+    "static/js/2.c5330d06.chunk.js": "/static/js/2.c5330d06.chunk.js",
+    "static/js/2.c5330d06.chunk.js.map": "/static/js/2.c5330d06.chunk.js.map",
+    "static/js/3.3f31d017.chunk.js": "/static/js/3.3f31d017.chunk.js",
+    "static/js/3.3f31d017.chunk.js.map": "/static/js/3.3f31d017.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c3e1ecb8.chunk.css.map": "/static/css/2.c3e1ecb8.chunk.css.map",
+    "static/css/main.708e31d9.chunk.css.map": "/static/css/main.708e31d9.chunk.css.map",
+    "static/js/2.c5330d06.chunk.js.LICENSE.txt": "/static/js/2.c5330d06.chunk.js.LICENSE.txt",
+    "static/media/Banner.f3ece03c.png": "/static/media/Banner.f3ece03c.png",
+    "static/media/Dynamic WarriorLogo.ec965038.png": "/static/media/Dynamic WarriorLogo.ec965038.png",
+    "static/media/Logo.7975f31d.png": "/static/media/Logo.7975f31d.png",
+    "static/media/gwg.b06dca76.png": "/static/media/gwg.b06dca76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be43b679.js",
+    "static/css/2.c3e1ecb8.chunk.css",
+    "static/js/2.c5330d06.chunk.js",
+    "static/css/main.708e31d9.chunk.css",
+    "static/js/main.ef2aba25.chunk.js"
+  ]
+}
